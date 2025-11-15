@@ -60,3 +60,6 @@ int[] indicesDeMaximo(int[] a)
 
 boolean esCapicua(int[] a)
 // Retorna true si el arreglo es igual al leerlo al derecho y al revés.
+## Codigo 192612
+## Nombre Yhon Alexander Arevalo Perez 
+
